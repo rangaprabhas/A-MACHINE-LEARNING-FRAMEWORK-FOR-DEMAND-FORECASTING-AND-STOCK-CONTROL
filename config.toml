@@ -15,4 +15,4 @@ enableXsrfProtection = false
 serverPort = 8501
 
 [general]
-pageTitle = "A Machine Learning Framework for Demand Forecasting and Stock Control"
+pageTitle = "A MACHINE LEARNING FRAMEWORK FOR DEMAND FORECASTING AND STOCK CONTROL"

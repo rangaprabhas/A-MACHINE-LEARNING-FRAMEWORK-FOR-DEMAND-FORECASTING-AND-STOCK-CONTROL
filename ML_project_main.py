@@ -37,7 +37,7 @@ except Exception:
 
 # Page Configuration
 st.set_page_config(
-    page_title="A Machine Learning Framework for Demand Forecasting and Stock Control",
+    page_title="A MACHINE LEARNING FRAMEWORK FOR DEMAND FORECASTING AND STOCK CONTROL",
     layout="wide",
     page_icon="icon2.png",
     initial_sidebar_state="expanded"
@@ -420,7 +420,7 @@ def app():
     st.markdown("""
         <div class="hero-container">
             <span class="hero-badge">Machine Learning Framework</span>
-            <h1 class="hero-title">A Machine Learning Framework for Demand Forecasting and Stock Control</h1>
+            <h1 class="hero-title">A MACHINE LEARNING FRAMEWORK FOR DEMAND FORECASTING AND STOCK CONTROL</h1>
             <p class="hero-subtitle">Optimize inventory reorder levels, predict sales trajectory with regression & deep learning models, and streamline supply chain decisions.</p>
         </div>
     """, unsafe_allow_html=True)
@@ -1077,7 +1077,7 @@ def show_feedback():
 
 def logout():
     st.title("Session Logout")
-    st.write("Thank you for utilizing **A Machine Learning Framework for Demand Forecasting and Stock Control**.")
+    st.write("Thank you for utilizing **A MACHINE LEARNING FRAMEWORK FOR DEMAND FORECASTING AND STOCK CONTROL**.")
 
     if st.button("Confirm Logout", type="primary"):
         for key in list(st.session_state.keys()):

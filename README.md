@@ -1,4 +1,4 @@
-# A Machine Learning Framework for Demand Forecasting and Stock Control 📈⚙️
+# A MACHINE LEARNING FRAMEWORK FOR DEMAND FORECASTING AND STOCK CONTROL 📈⚙️
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.39.0-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -73,8 +73,8 @@ An enterprise-ready machine learning framework designed to predict future produc
 Clone the repository and install dependencies:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <REPOSITORY_NAME>
+git clone https://github.com/rangaprabhas/A-MACHINE-LEARNING-FRAMEWORK-FOR-DEMAND-FORECASTING-AND-STOCK-CONTROL.git
+cd "A MACHINE LEARNING FRAMEWORK FOR DEMAND FORECASTING AND STOCK CONTROL"
 pip install -r requirements.txt
 ```
 
